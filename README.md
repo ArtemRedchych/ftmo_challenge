@@ -12,6 +12,7 @@ In this project i implemented all objectives
 
 
 ## What i could have done better
+- I would add tests. I would test all widgets and all business logic.
 - Instead of rendering whole table I could rerender only changed cells. It would lead to better performance. I would use better data structure for that.
 - I would add notification for tabs where data cannot be loaded (usually due to weekend or holiday)
 
